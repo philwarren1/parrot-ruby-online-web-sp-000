@@ -7,4 +7,3 @@ def parrot(phrase = "Squawk!")
 "Squawk!"
 end
 
-puts parrot("Pretty Bird!")
