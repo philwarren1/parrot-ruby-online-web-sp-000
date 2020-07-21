@@ -4,7 +4,7 @@
 
 def parrot(phrase="Squawk!")
   puts "#{phrase}"
-  #{phrase}
+  "#{phrase}"
 end
 
 def greeting(name="Ruby programmer", language="Ruby")
