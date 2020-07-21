@@ -7,3 +7,5 @@ def parrot(phrase = "Squawk!")
 "Squawk!"
 end
 
+parrot("Pretty bird!")
+
