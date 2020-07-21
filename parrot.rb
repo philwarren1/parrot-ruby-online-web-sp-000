@@ -3,8 +3,8 @@
 
 
 def parrot(phrase="Squawk!")
-  puts #{phrase}
-  return #{phrase}
+  puts "#{phrase}"
+  #{phrase}
 end
 
 def greeting(name="Ruby programmer", language="Ruby")
